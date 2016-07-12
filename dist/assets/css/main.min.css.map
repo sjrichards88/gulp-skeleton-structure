@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.scss"],"names":[],"mappings":"AAAA,KACC,qBAAwB,CACxB,AACD,GACC,SAAW,CACX","file":"main.min.css","sourcesContent":["body {\n\tbackground-color: white;\n}\nh1 {\n\tcolor: red;\n}"],"sourceRoot":"/source/"}
